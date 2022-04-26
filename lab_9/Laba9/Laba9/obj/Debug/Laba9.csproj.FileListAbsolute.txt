@@ -1,0 +1,20 @@
+D:\II Курс\4 семестр\ОС\Laba9\Laba9\Laba9\bin\Debug\Laba9.exe.config
+D:\II Курс\4 семестр\ОС\Laba9\Laba9\Laba9\bin\Debug\Laba9.exe
+D:\II Курс\4 семестр\ОС\Laba9\Laba9\Laba9\bin\Debug\Laba9.pdb
+D:\II Курс\4 семестр\ОС\Laba9\Laba9\Laba9\obj\Debug\Laba9.csprojResolveAssemblyReference.cache
+D:\II Курс\4 семестр\ОС\Laba9\Laba9\Laba9\obj\Debug\Laba9.exe
+D:\II Курс\4 семестр\ОС\Laba9\Laba9\Laba9\obj\Debug\Laba9.pdb
+I:\ОС\Лб9\Laba9\Laba9\Laba9\bin\Debug\Laba9.exe.config
+I:\ОС\Лб9\Laba9\Laba9\Laba9\obj\Debug\Laba9.exe
+I:\ОС\Лб9\Laba9\Laba9\Laba9\obj\Debug\Laba9.pdb
+I:\ОС\Лб9\Laba9\Laba9\Laba9\bin\Debug\Laba9.exe
+I:\ОС\Лб9\Laba9\Laba9\Laba9\bin\Debug\Laba9.pdb
+I:\ОС\Лб9\Laba9\Laba9\Laba9\obj\Debug\Laba9.csprojResolveAssemblyReference.cache
+D:\labs\ос\lab_9\Laba9\Laba9\bin\Debug\Laba9.exe.config
+D:\labs\ос\lab_9\Laba9\Laba9\bin\Debug\Laba9.exe
+D:\labs\ос\lab_9\Laba9\Laba9\bin\Debug\Laba9.pdb
+D:\labs\ос\lab_9\Laba9\Laba9\obj\Debug\Laba9.csproj.AssemblyReference.cache
+D:\labs\ос\lab_9\Laba9\Laba9\obj\Debug\Laba9.csproj.SuggestedBindingRedirects.cache
+D:\labs\ос\lab_9\Laba9\Laba9\obj\Debug\Laba9.csproj.CoreCompileInputs.cache
+D:\labs\ос\lab_9\Laba9\Laba9\obj\Debug\Laba9.exe
+D:\labs\ос\lab_9\Laba9\Laba9\obj\Debug\Laba9.pdb
